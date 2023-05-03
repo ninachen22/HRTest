@@ -1,3 +1,2 @@
-document.write("hi this is test");
-
 var testing = "comment";
+document.write("<h1>" +testing+"</h1>");
